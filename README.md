@@ -1,4 +1,4 @@
-## cs freshie exploring the world of programming
+## cs freshie exploring the world of programming 
 
 <!--
 **sabersmash1412/sabersmash1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
